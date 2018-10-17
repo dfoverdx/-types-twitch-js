@@ -13,7 +13,5 @@
   ],
   "author": "Jordan Hitch",
   "license": "ISC",
-  "devDependencies": {
-    "twitch-js": "^1.2.14"
-  }
+  "devDependencies": {}
 }
